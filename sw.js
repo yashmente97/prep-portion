@@ -1,6 +1,6 @@
 // Network first for the app's own files, so new versions arrive as soon as you're online;
 // cached copies keep the app working offline.
-const CACHE = 'pp-2026.11.01-2010';
+const CACHE = 'pp-2026.11.01-2030';
 const SHELL = ['./', 'index.html', 'app.js', 'db.js', 'style.css', 'firebase-config.js', 'library.json', 'manifest.webmanifest', 'icons/icon-192.png', 'icons/apple-touch-icon.png'];
 self.addEventListener('install', (e) => {
   self.skipWaiting();
