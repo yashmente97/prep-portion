@@ -1,0 +1,1110 @@
+{
+ "version": 1,
+ "ingredients": {
+  "avocado-oil": {
+   "c": 0,
+   "f": 100,
+   "fib": 0,
+   "kcal": 900,
+   "name": "Avocado oil, refined (Soilmates)",
+   "p": 0,
+   "pack": null,
+   "sat": 18,
+   "store": "",
+   "unit": "g",
+   "src": "label"
+  },
+  "baby-potatoes": {
+   "c": 16.8,
+   "f": 0,
+   "fib": 2.2,
+   "kcal": 79,
+   "name": "Baby potatoes, pre-cooked (krieltjes)",
+   "p": 1.8,
+   "pack": 500,
+   "sat": 0,
+   "store": "Jumbo",
+   "unit": "g",
+   "src": "label"
+  },
+  "banana": {
+   "c": 20,
+   "f": 0.3,
+   "fib": 1.9,
+   "kcal": 92,
+   "name": "Banana, peeled",
+   "p": 1.1,
+   "pack": null,
+   "sat": 0.1,
+   "store": "Jumbo",
+   "unit": "g",
+   "src": "label",
+   "cat": "fruit"
+  },
+  "basmati-rice": {
+   "c": 79,
+   "f": 0.5,
+   "fib": 0,
+   "kcal": 355,
+   "name": "Basmati rice, dry (KRBL)",
+   "p": 8.8,
+   "pack": null,
+   "sat": 0.1,
+   "store": "",
+   "unit": "g",
+   "src": "label"
+  },
+  "cherry-tomatoes": {
+   "c": 3.1,
+   "f": 0.2,
+   "fib": 1.2,
+   "kcal": 20,
+   "name": "Cherry tomatoes",
+   "p": 0.9,
+   "pack": 250,
+   "sat": 0,
+   "store": "Jumbo",
+   "unit": "g",
+   "src": "label",
+   "cat": "veg"
+  },
+  "chicken-breast": {
+   "c": 0,
+   "f": 1.2,
+   "fib": 0,
+   "kcal": 110,
+   "name": "Chicken breast (kipfilet)",
+   "p": 24.7,
+   "pack": 1000,
+   "sat": 0.5,
+   "store": "Jumbo",
+   "unit": "g",
+   "src": "label"
+  },
+  "chicken-thigh": {
+   "c": 0,
+   "f": 8.8,
+   "fib": 0,
+   "kcal": 157,
+   "name": "Chicken thigh fillet (kipdijfilet)",
+   "p": 19.3,
+   "pack": 750,
+   "sat": 3,
+   "store": "Jumbo",
+   "unit": "g",
+   "src": "label"
+  },
+  "cottage-cheese": {
+   "c": 4,
+   "f": 0.3,
+   "fib": 0,
+   "kcal": 71,
+   "name": "Cottage cheese with low-fat yoghurt",
+   "p": 12.7,
+   "pack": 200,
+   "sat": 0.2,
+   "store": "Jumbo",
+   "unit": "g",
+   "src": "label"
+  },
+  "eggs": {
+   "c": 0.4,
+   "f": 4.8,
+   "fib": 0,
+   "kcal": 73,
+   "name": "Eggs, free-range (scharreleieren)",
+   "p": 6.4,
+   "pack": 12,
+   "sat": 1.6,
+   "store": "Jumbo",
+   "unit": "pc",
+   "src": "label"
+  },
+  "milk-lf": {
+   "c": 4.7,
+   "f": 1.6,
+   "fib": 0,
+   "kcal": 46,
+   "name": "Semi-skimmed lactose-free milk",
+   "p": 3.3,
+   "pack": 1000,
+   "sat": 0.9,
+   "store": "Jumbo",
+   "unit": "ml",
+   "src": "label"
+  },
+  "olive-oil": {
+   "c": 0,
+   "f": 100,
+   "fib": 0,
+   "kcal": 900,
+   "name": "Extra virgin olive oil",
+   "p": 0,
+   "pack": null,
+   "sat": 15,
+   "store": "",
+   "unit": "g",
+   "src": "label"
+  },
+  "onion": {
+   "c": 7.6,
+   "f": 0.1,
+   "fib": 1.7,
+   "kcal": 39,
+   "name": "Onion, raw, peeled",
+   "p": 1.1,
+   "pack": null,
+   "sat": 0,
+   "store": "",
+   "unit": "g",
+   "src": "label",
+   "cat": "veg"
+  },
+  "salmon": {
+   "c": 0,
+   "f": 16.7,
+   "fib": 0,
+   "kcal": 222,
+   "name": "Salmon fillet with skin (zalmfilet)",
+   "p": 18,
+   "pack": 125,
+   "sat": 2.7,
+   "store": "Jumbo",
+   "unit": "g",
+   "src": "label"
+  },
+  "skyr": {
+   "c": 4,
+   "f": 0.2,
+   "fib": 0,
+   "kcal": 61,
+   "name": "Skyr, low-fat",
+   "p": 11,
+   "pack": 1000,
+   "sat": 0.1,
+   "store": "Jumbo",
+   "unit": "g",
+   "src": "label"
+  },
+  "speculoos": {
+   "c": 9.1,
+   "f": 2.4,
+   "fib": 0.2,
+   "kcal": 60,
+   "name": "Lotus Biscoff speculoos",
+   "p": 0.6,
+   "pack": 20,
+   "sat": 1,
+   "store": "Jumbo",
+   "unit": "pc",
+   "src": "label"
+  },
+  "spinach": {
+   "c": 0.9,
+   "f": 0.6,
+   "fib": 2,
+   "kcal": 26,
+   "name": "Spinach, washed (spinazie)",
+   "p": 3.2,
+   "pack": 200,
+   "sat": 0.1,
+   "store": "Jumbo",
+   "unit": "g",
+   "src": "label",
+   "cat": "veg"
+  },
+  "tinned-tomatoes": {
+   "c": 4.5,
+   "f": 0.2,
+   "fib": 1.3,
+   "kcal": 30,
+   "name": "Peeled tomatoes in juice, organic (tin)",
+   "p": 1.4,
+   "pack": 400,
+   "sat": 0,
+   "store": "Jumbo",
+   "unit": "g",
+   "src": "label"
+  },
+  "tuna-water": {
+   "c": 0,
+   "f": 0.8,
+   "fib": 0,
+   "kcal": 107,
+   "name": "Tuna chunks in water, drained (tonijn)",
+   "p": 25,
+   "pack": 112,
+   "sat": 0.3,
+   "store": "Jumbo",
+   "unit": "g",
+   "src": "label"
+  },
+  "broccoli": {
+   "name": "Broccoli",
+   "unit": "g",
+   "kcal": 35,
+   "p": 2.8,
+   "c": 4.0,
+   "f": 0.4,
+   "fib": 2.6,
+   "sat": 0.1,
+   "store": "",
+   "pack": null,
+   "src": "generic",
+   "cat": "veg"
+  },
+  "cauliflower": {
+   "name": "Cauliflower",
+   "unit": "g",
+   "kcal": 25,
+   "p": 1.9,
+   "c": 3.0,
+   "f": 0.3,
+   "fib": 2.0,
+   "sat": 0.1,
+   "store": "",
+   "pack": null,
+   "src": "generic",
+   "cat": "veg"
+  },
+  "green-beans": {
+   "name": "Green beans",
+   "unit": "g",
+   "kcal": 31,
+   "p": 1.8,
+   "c": 4.3,
+   "f": 0.2,
+   "fib": 2.7,
+   "sat": 0.0,
+   "store": "",
+   "pack": null,
+   "src": "generic",
+   "cat": "veg"
+  },
+  "bell-pepper": {
+   "name": "Bell pepper",
+   "unit": "g",
+   "kcal": 29,
+   "p": 1.0,
+   "c": 4.6,
+   "f": 0.3,
+   "fib": 2.1,
+   "sat": 0.0,
+   "store": "",
+   "pack": null,
+   "src": "generic",
+   "cat": "veg"
+  },
+  "courgette": {
+   "name": "Courgette",
+   "unit": "g",
+   "kcal": 18,
+   "p": 1.2,
+   "c": 2.1,
+   "f": 0.3,
+   "fib": 1.0,
+   "sat": 0.1,
+   "store": "",
+   "pack": null,
+   "src": "generic",
+   "cat": "veg"
+  },
+  "carrot": {
+   "name": "Carrot",
+   "unit": "g",
+   "kcal": 38,
+   "p": 0.9,
+   "c": 6.8,
+   "f": 0.2,
+   "fib": 2.8,
+   "sat": 0.0,
+   "store": "",
+   "pack": null,
+   "src": "generic",
+   "cat": "veg"
+  },
+  "mushrooms": {
+   "name": "Mushrooms",
+   "unit": "g",
+   "kcal": 24,
+   "p": 3.1,
+   "c": 2.3,
+   "f": 0.3,
+   "fib": 1.0,
+   "sat": 0.0,
+   "store": "",
+   "pack": null,
+   "src": "generic",
+   "cat": "veg"
+  },
+  "garlic": {
+   "name": "Garlic",
+   "unit": "g",
+   "kcal": 150,
+   "p": 6.4,
+   "c": 31.0,
+   "f": 0.5,
+   "fib": 2.1,
+   "sat": 0.1,
+   "store": "",
+   "pack": null,
+   "src": "generic",
+   "cat": "veg"
+  },
+  "ginger": {
+   "name": "Ginger",
+   "unit": "g",
+   "kcal": 80,
+   "p": 1.8,
+   "c": 15.8,
+   "f": 0.8,
+   "fib": 2.0,
+   "sat": 0.2,
+   "store": "",
+   "pack": null,
+   "src": "generic",
+   "cat": "veg"
+  },
+  "leek": {
+   "name": "Leek",
+   "unit": "g",
+   "kcal": 31,
+   "p": 1.5,
+   "c": 4.3,
+   "f": 0.3,
+   "fib": 2.3,
+   "sat": 0.0,
+   "store": "",
+   "pack": null,
+   "src": "generic",
+   "cat": "veg"
+  },
+  "sweet-potato": {
+   "name": "Sweet potato",
+   "unit": "g",
+   "kcal": 82,
+   "p": 1.6,
+   "c": 17.1,
+   "f": 0.1,
+   "fib": 3.0,
+   "sat": 0.0,
+   "store": "",
+   "pack": null,
+   "src": "generic",
+   "cat": "veg"
+  },
+  "potato-raw": {
+   "name": "Potatoes, raw",
+   "unit": "g",
+   "kcal": 75,
+   "p": 2.0,
+   "c": 15.4,
+   "f": 0.1,
+   "fib": 2.2,
+   "sat": 0.0,
+   "store": "",
+   "pack": null,
+   "src": "generic",
+   "cat": "veg"
+  },
+  "peas-frozen": {
+   "name": "Peas, frozen",
+   "unit": "g",
+   "kcal": 77,
+   "p": 5.4,
+   "c": 9.6,
+   "f": 0.4,
+   "fib": 5.7,
+   "sat": 0.1,
+   "store": "",
+   "pack": null,
+   "src": "generic",
+   "cat": "veg"
+  },
+  "sweetcorn": {
+   "name": "Sweetcorn",
+   "unit": "g",
+   "kcal": 90,
+   "p": 3.3,
+   "c": 16.3,
+   "f": 1.4,
+   "fib": 2.0,
+   "sat": 0.2,
+   "store": "",
+   "pack": null,
+   "src": "generic",
+   "cat": "veg"
+  },
+  "cucumber": {
+   "name": "Cucumber",
+   "unit": "g",
+   "kcal": 15,
+   "p": 0.7,
+   "c": 2.6,
+   "f": 0.1,
+   "fib": 0.5,
+   "sat": 0.0,
+   "store": "",
+   "pack": null,
+   "src": "generic",
+   "cat": "veg"
+  },
+  "lettuce": {
+   "name": "Lettuce / mixed salad",
+   "unit": "g",
+   "kcal": 16,
+   "p": 1.4,
+   "c": 1.5,
+   "f": 0.2,
+   "fib": 1.3,
+   "sat": 0.0,
+   "store": "",
+   "pack": null,
+   "src": "generic",
+   "cat": "veg"
+  },
+  "kale": {
+   "name": "Kale (boerenkool)",
+   "unit": "g",
+   "kcal": 45,
+   "p": 2.9,
+   "c": 4.4,
+   "f": 0.9,
+   "fib": 4.1,
+   "sat": 0.1,
+   "store": "",
+   "pack": null,
+   "src": "generic",
+   "cat": "veg"
+  },
+  "spring-onion": {
+   "name": "Spring onion",
+   "unit": "g",
+   "kcal": 33,
+   "p": 1.8,
+   "c": 4.7,
+   "f": 0.2,
+   "fib": 2.6,
+   "sat": 0.0,
+   "store": "",
+   "pack": null,
+   "src": "generic",
+   "cat": "veg"
+  },
+  "aubergine": {
+   "name": "Aubergine",
+   "unit": "g",
+   "kcal": 24,
+   "p": 1.0,
+   "c": 2.9,
+   "f": 0.2,
+   "fib": 3.0,
+   "sat": 0.0,
+   "store": "",
+   "pack": null,
+   "src": "generic",
+   "cat": "veg"
+  },
+  "red-cabbage": {
+   "name": "Red cabbage",
+   "unit": "g",
+   "kcal": 32,
+   "p": 1.4,
+   "c": 5.3,
+   "f": 0.2,
+   "fib": 2.1,
+   "sat": 0.0,
+   "store": "",
+   "pack": null,
+   "src": "generic",
+   "cat": "veg"
+  },
+  "brussels-sprouts": {
+   "name": "Brussels sprouts",
+   "unit": "g",
+   "kcal": 44,
+   "p": 3.4,
+   "c": 5.2,
+   "f": 0.3,
+   "fib": 3.8,
+   "sat": 0.1,
+   "store": "",
+   "pack": null,
+   "src": "generic",
+   "cat": "veg"
+  },
+  "tomato": {
+   "name": "Tomato",
+   "unit": "g",
+   "kcal": 18,
+   "p": 0.9,
+   "c": 2.7,
+   "f": 0.2,
+   "fib": 1.2,
+   "sat": 0.0,
+   "store": "",
+   "pack": null,
+   "src": "generic",
+   "cat": "veg"
+  },
+  "avocado": {
+   "name": "Avocado",
+   "unit": "g",
+   "kcal": 160,
+   "p": 2.0,
+   "c": 1.8,
+   "f": 14.7,
+   "fib": 6.7,
+   "sat": 2.1,
+   "store": "",
+   "pack": null,
+   "src": "generic",
+   "cat": "veg"
+  },
+  "lemon-juice": {
+   "name": "Lemon juice",
+   "unit": "g",
+   "kcal": 29,
+   "p": 0.4,
+   "c": 6.6,
+   "f": 0.2,
+   "fib": 0.3,
+   "sat": 0.0,
+   "store": "",
+   "pack": null,
+   "src": "generic",
+   "cat": "fruit"
+  },
+  "apple": {
+   "name": "Apple",
+   "unit": "g",
+   "kcal": 53,
+   "p": 0.3,
+   "c": 11.4,
+   "f": 0.2,
+   "fib": 2.4,
+   "sat": 0.0,
+   "store": "",
+   "pack": null,
+   "src": "generic",
+   "cat": "fruit"
+  },
+  "pear": {
+   "name": "Pear",
+   "unit": "g",
+   "kcal": 57,
+   "p": 0.4,
+   "c": 12.1,
+   "f": 0.1,
+   "fib": 3.1,
+   "sat": 0.0,
+   "store": "",
+   "pack": null,
+   "src": "generic",
+   "cat": "fruit"
+  },
+  "orange": {
+   "name": "Orange",
+   "unit": "g",
+   "kcal": 47,
+   "p": 0.9,
+   "c": 9.4,
+   "f": 0.1,
+   "fib": 2.4,
+   "sat": 0.0,
+   "store": "",
+   "pack": null,
+   "src": "generic",
+   "cat": "fruit"
+  },
+  "kiwi": {
+   "name": "Kiwi",
+   "unit": "g",
+   "kcal": 62,
+   "p": 1.1,
+   "c": 11.7,
+   "f": 0.5,
+   "fib": 3.0,
+   "sat": 0.0,
+   "store": "",
+   "pack": null,
+   "src": "generic",
+   "cat": "fruit"
+  },
+  "strawberries": {
+   "name": "Strawberries",
+   "unit": "g",
+   "kcal": 32,
+   "p": 0.7,
+   "c": 5.7,
+   "f": 0.3,
+   "fib": 2.0,
+   "sat": 0.0,
+   "store": "",
+   "pack": null,
+   "src": "generic",
+   "cat": "fruit"
+  },
+  "blueberries": {
+   "name": "Blueberries",
+   "unit": "g",
+   "kcal": 59,
+   "p": 0.7,
+   "c": 12.1,
+   "f": 0.3,
+   "fib": 2.4,
+   "sat": 0.0,
+   "store": "",
+   "pack": null,
+   "src": "generic",
+   "cat": "fruit"
+  },
+  "raspberries": {
+   "name": "Raspberries",
+   "unit": "g",
+   "kcal": 46,
+   "p": 1.2,
+   "c": 5.4,
+   "f": 0.7,
+   "fib": 6.5,
+   "sat": 0.0,
+   "store": "",
+   "pack": null,
+   "src": "generic",
+   "cat": "fruit"
+  },
+  "mixed-berries-frozen": {
+   "name": "Mixed berries, frozen",
+   "unit": "g",
+   "kcal": 45,
+   "p": 0.9,
+   "c": 7.5,
+   "f": 0.4,
+   "fib": 4.0,
+   "sat": 0.0,
+   "store": "",
+   "pack": null,
+   "src": "generic",
+   "cat": "fruit"
+  },
+  "mango": {
+   "name": "Mango",
+   "unit": "g",
+   "kcal": 62,
+   "p": 0.8,
+   "c": 13.4,
+   "f": 0.4,
+   "fib": 1.6,
+   "sat": 0.1,
+   "store": "",
+   "pack": null,
+   "src": "generic",
+   "cat": "fruit"
+  },
+  "pineapple": {
+   "name": "Pineapple",
+   "unit": "g",
+   "kcal": 51,
+   "p": 0.5,
+   "c": 11.7,
+   "f": 0.1,
+   "fib": 1.4,
+   "sat": 0.0,
+   "store": "",
+   "pack": null,
+   "src": "generic",
+   "cat": "fruit"
+  },
+  "grapes": {
+   "name": "Grapes",
+   "unit": "g",
+   "kcal": 72,
+   "p": 0.7,
+   "c": 17.2,
+   "f": 0.2,
+   "fib": 0.9,
+   "sat": 0.1,
+   "store": "",
+   "pack": null,
+   "src": "generic",
+   "cat": "fruit"
+  }
+ },
+ "recipes": {
+  "tomato-chicken-potatoes": {
+   "items": [
+    {
+     "fixed": 100,
+     "ing": "chicken-breast",
+     "role": "P",
+     "w": 100
+    },
+    {
+     "fixed": 100,
+     "ing": "olive-oil",
+     "role": "F",
+     "w": 100
+    },
+    {
+     "fixed": 100,
+     "ing": "baby-potatoes",
+     "role": "C",
+     "w": 100
+    },
+    {
+     "fixed": 250,
+     "ing": "cherry-tomatoes",
+     "role": "X"
+    },
+    {
+     "fixed": 400,
+     "ing": "tinned-tomatoes",
+     "role": "X"
+    },
+    {
+     "fixed": 400,
+     "ing": "cottage-cheese",
+     "per": "batch",
+     "role": "X"
+    },
+    {
+     "fixed": 214,
+     "ing": "onion",
+     "per": "batch",
+     "role": "X"
+    }
+   ],
+   "name": "Tomato chicken with potatoes",
+   "time": 30,
+   "mode": "mixed",
+   "steps": [
+    "Heat part of the oil in a large pan. Fry the chopped onion for 3–4 min until soft.",
+    "Add the chicken in bite-size pieces with salt, pepper and paprika; sear 5–6 min.",
+    "Add the tinned and cherry tomatoes; simmer 8–10 min until the sauce thickens.",
+    "Meanwhile crisp the pre-cooked potatoes in a second pan or the airfryer (12–14 min, 175 °C) with the rest of the oil.",
+    "Blend the cottage cheese smooth with a spoonful of hot sauce. Take the pan off the heat and stir it in. Do not boil it again.",
+    "Combine with the potatoes, or keep separate if you portion per pan."
+   ],
+   "note": "Cottage cheese must be blended and added off the heat, otherwise it turns grainy."
+  },
+  "garlic-chicken-rice-broccoli": {
+   "name": "Garlic chicken, rice & broccoli",
+   "time": 25,
+   "mode": "split",
+   "items": [
+    {
+     "ing": "chicken-breast",
+     "role": "P"
+    },
+    {
+     "ing": "basmati-rice",
+     "role": "C"
+    },
+    {
+     "ing": "olive-oil",
+     "role": "F"
+    },
+    {
+     "ing": "broccoli",
+     "role": "X",
+     "fixed": 800,
+     "per": "batch"
+    },
+    {
+     "ing": "garlic",
+     "role": "X",
+     "fixed": 15,
+     "per": "batch"
+    }
+   ],
+   "steps": [
+    "Rinse the rice and boil it in plenty of salted water, 10–12 min; drain.",
+    "Cut the chicken into cubes; season with salt, pepper and paprika.",
+    "Heat the oil in a large pan, sear the chicken 6–7 min. Add the chopped garlic for the last minute.",
+    "Steam or microwave the broccoli florets 4–5 min until just tender, then toss into the chicken pan."
+   ],
+   "note": "Rice (pan B) and chicken + broccoli (pan A) are weighed separately."
+  },
+  "salmon-potato-traybake": {
+   "name": "Salmon & potato tray bake",
+   "time": 25,
+   "mode": "split",
+   "items": [
+    {
+     "ing": "salmon",
+     "role": "P"
+    },
+    {
+     "ing": "baby-potatoes",
+     "role": "C"
+    },
+    {
+     "ing": "olive-oil",
+     "role": "F"
+    },
+    {
+     "ing": "green-beans",
+     "role": "X",
+     "fixed": 600,
+     "per": "batch"
+    },
+    {
+     "ing": "lemon-juice",
+     "role": "X",
+     "fixed": 30,
+     "per": "batch"
+    }
+   ],
+   "steps": [
+    "Heat the oven to 200 °C.",
+    "Toss the pre-cooked potatoes with the oil, salt and pepper on a tray; roast 10 min.",
+    "Add the green beans and the salmon fillets (skin down); roast 12–14 min more.",
+    "Squeeze lemon over the salmon before portioning."
+   ],
+   "note": "Salmon carries more fat than a usual box target, so the app uses no oil and these boxes land higher in (mostly healthy, omega-3) fat and lower in carbs at the same calories. Raise “Fat g / box” in step 1 if you want the numbers to match. Cooked fish keeps 3 days in the fridge; freeze the rest."
+  },
+  "chicken-thigh-fajita-rice": {
+   "name": "Chicken thigh fajita rice",
+   "time": 25,
+   "mode": "split",
+   "items": [
+    {
+     "ing": "chicken-thigh",
+     "role": "P"
+    },
+    {
+     "ing": "basmati-rice",
+     "role": "C"
+    },
+    {
+     "ing": "avocado-oil",
+     "role": "F"
+    },
+    {
+     "ing": "bell-pepper",
+     "role": "X",
+     "fixed": 600,
+     "per": "batch"
+    },
+    {
+     "ing": "onion",
+     "role": "X",
+     "fixed": 300,
+     "per": "batch"
+    }
+   ],
+   "steps": [
+    "Boil the rice, 10–12 min; drain.",
+    "Slice the chicken thighs, peppers and onion into strips. Season the chicken with cumin, paprika, garlic powder and salt.",
+    "Heat the oil in a large pan on high heat; sear the chicken 6–7 min.",
+    "Add the peppers and onion; stir-fry 5 min until softened but still crunchy."
+   ],
+   "note": "Avocado oil handles the high heat well."
+  },
+  "chicken-egg-fried-rice": {
+   "name": "Chicken & egg fried rice",
+   "time": 25,
+   "mode": "mixed",
+   "items": [
+    {
+     "ing": "chicken-breast",
+     "role": "P",
+     "w": 75
+    },
+    {
+     "ing": "eggs",
+     "role": "P",
+     "w": 25
+    },
+    {
+     "ing": "basmati-rice",
+     "role": "C"
+    },
+    {
+     "ing": "avocado-oil",
+     "role": "F"
+    },
+    {
+     "ing": "peas-frozen",
+     "role": "X",
+     "fixed": 400,
+     "per": "batch"
+    },
+    {
+     "ing": "carrot",
+     "role": "X",
+     "fixed": 300,
+     "per": "batch"
+    },
+    {
+     "ing": "spring-onion",
+     "role": "X",
+     "fixed": 100,
+     "per": "batch"
+    },
+    {
+     "ing": "garlic",
+     "role": "X",
+     "fixed": 10,
+     "per": "batch"
+    }
+   ],
+   "steps": [
+    "Boil the rice 10 min, drain and spread it out to steam dry (or use rice cooked the day before).",
+    "Heat some oil in a wok or large pan; cook the diced chicken 6 min; push it aside.",
+    "Scramble the eggs in the same pan.",
+    "Add the rest of the oil, the diced carrot, peas and garlic; stir-fry 3 min.",
+    "Add the rice, toss everything on high heat 3–4 min; season with soy sauce. Finish with spring onion."
+   ],
+   "note": "Shows two protein sources: the app splits protein 75/25 between chicken and eggs."
+  },
+  "tuna-tomato-rice": {
+   "name": "Tuna tomato rice skillet",
+   "time": 20,
+   "mode": "mixed",
+   "items": [
+    {
+     "ing": "tuna-water",
+     "role": "P"
+    },
+    {
+     "ing": "basmati-rice",
+     "role": "C"
+    },
+    {
+     "ing": "olive-oil",
+     "role": "F"
+    },
+    {
+     "ing": "tinned-tomatoes",
+     "role": "X",
+     "fixed": 800,
+     "per": "batch"
+    },
+    {
+     "ing": "spinach",
+     "role": "X",
+     "fixed": 400,
+     "per": "batch"
+    },
+    {
+     "ing": "onion",
+     "role": "X",
+     "fixed": 200,
+     "per": "batch"
+    },
+    {
+     "ing": "garlic",
+     "role": "X",
+     "fixed": 10,
+     "per": "batch"
+    }
+   ],
+   "steps": [
+    "Boil the rice, 10–12 min; drain.",
+    "Fry the onion and garlic in the oil, 4 min.",
+    "Add the tinned tomatoes; simmer 8 min. Stir in the spinach until wilted.",
+    "Fold in the drained tuna and the rice; heat through 2 min."
+   ],
+   "note": "A pantry meal: everything except the spinach keeps for months."
+  },
+  "sweet-potato-chicken-traybake": {
+   "name": "Sweet potato chicken tray bake",
+   "time": 30,
+   "mode": "split",
+   "items": [
+    {
+     "ing": "chicken-breast",
+     "role": "P"
+    },
+    {
+     "ing": "sweet-potato",
+     "role": "C"
+    },
+    {
+     "ing": "olive-oil",
+     "role": "F"
+    },
+    {
+     "ing": "courgette",
+     "role": "X",
+     "fixed": 600,
+     "per": "batch"
+    },
+    {
+     "ing": "onion",
+     "role": "X",
+     "fixed": 300,
+     "per": "batch"
+    }
+   ],
+   "steps": [
+    "Heat the oven to 210 °C.",
+    "Cube the sweet potato (skin on is fine); toss with half the oil and salt. Roast 10 min.",
+    "Add the chicken cubes, courgette and onion wedges with the rest of the oil and spices; roast 18–20 min."
+   ],
+   "note": "Use two trays if needed so everything roasts instead of steaming."
+  }
+ },
+ "meals": {
+  "egg-spinach-scramble": {
+   "name": "Egg, spinach & tomato scramble",
+   "items": [
+    {
+     "ing": "eggs",
+     "amt": 3
+    },
+    {
+     "ing": "spinach",
+     "amt": 80
+    },
+    {
+     "ing": "cherry-tomatoes",
+     "amt": 100
+    },
+    {
+     "ing": "olive-oil",
+     "amt": 5
+    }
+   ]
+  },
+  "mushroom-omelette": {
+   "name": "Mushroom & spinach omelette",
+   "items": [
+    {
+     "ing": "eggs",
+     "amt": 3
+    },
+    {
+     "ing": "mushrooms",
+     "amt": 100
+    },
+    {
+     "ing": "spinach",
+     "amt": 50
+    },
+    {
+     "ing": "olive-oil",
+     "amt": 5
+    }
+   ]
+  },
+  "skyr-berry-bowl": {
+   "name": "Skyr bowl with banana & berries",
+   "items": [
+    {
+     "ing": "skyr",
+     "amt": 250
+    },
+    {
+     "ing": "mixed-berries-frozen",
+     "amt": 100
+    },
+    {
+     "ing": "banana",
+     "amt": 60
+    }
+   ]
+  }
+ }
+}
